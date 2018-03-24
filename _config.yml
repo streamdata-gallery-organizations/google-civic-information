@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-civic-information.api.streamdata.gallery
+title: Streamdata Gallery Google Civic Information
+url: google-civic-information.streamdata.gallery
 tag: Google Civic Information
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-civic-information
 github_branch: master
 collections:
