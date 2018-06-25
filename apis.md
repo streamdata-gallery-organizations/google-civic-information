@@ -5,7 +5,7 @@ description: This is a repository of google civic information APIs, self-contain
   surrounding operations.
 image: http://template.streamdata.gallery/assets/google-civic-information.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-civic-information.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
