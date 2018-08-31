@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Civic Information",
+	"description": "This is a repository of google civic information APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-civic-information.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-civic-information.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Civic Information",
+			"x-api-slug": "google-civic-information",
+			"description": "The Google Civic Information API lets developers build applications that display civic information to their users. For any U.S. residential address, you can look up who represents that address at each elected level of government. During supported elections, you can also look up polling places, early vote location, candidate data, and other election official information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-civic-information-api.png",
+			"humanURL": "https://developers.google.com/civic-information/",
+			"baseURL": "://www.googleapis.com//civicinfo/v2",
+			"tags": "Google Civic Information",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-civic-information/master/_listings/google-civic-information/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Civic Information",
+	"include": [
+		{
+			"name": "Google Civic Information",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-civic-information/master/_listings/google-civic-information/apis.yaml"
+		}
+	]
+}
